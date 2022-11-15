@@ -21,11 +21,11 @@
 
 <div align="center">
 <a href="https://www.github.com/itsn0b1t4"><img src="https://img.shields.io/github/followers/itsn0b1t4?logo=GITHUB&style=for-the-badge" alt="version" ></a>
-<a href="https://github.com/ITSN0B1T4/Toxinum/releases/tag/Toxinum_V1.0"><img src="https://img.shields.io/badge/Version-V1.9-dark?style=for-the-badge" alt="version" ></a>
-<a href="https://www.github.com/itsn0b1t4/toxinum/"><img src="https://img.shields.io/github/stars/itzakx21/TOXIC-WORLD?logo=GITHUB&style=for-the-badge" alt="stars" ></a>
-<a href="https://github.com/itsn0b1t4/toxinum/fork"><img src="https://img.shields.io/github/forks/itzakx21/TOXIC-WORLD?logo=GITHUB&style=for-the-badge" alt="forks" ></a>
-<a href="https://www.github.com/itsn0b1t4/toxinum/"><img src="https://img.shields.io/github/watchers/itzakx21/TOXIC-WORLD?color=red&logo=github&style=for-the-badge" alt="total watchers" ></a>
-<a href="https://github.com/itsn0b1t4/toxinum//blob/main/LICENSE"><img src="https://img.shields.io/github/license/itzakx21/TOXIC-WORLD?logo=license&style=for-the-badge" alt="total watchers" ></a>
+<a href="https://github.com/ITSN0B1T4/Toxinum/releases/tag/Toxinum_V1.0"><img src="https://img.shields.io/badge/Version-V1.2-dark?style=for-the-badge" alt="version" ></a>
+<a href="https://www.github.com/itsn0b1t4/toxinum/"><img src="https://img.shields.io/github/stars/Itsn0b1t4/Toxinum?logo=GITHUB&style=for-the-badge" alt="stars" ></a>
+<a href="https://github.com/itsn0b1t4/toxinum/fork"><img src="https://img.shields.io/github/forks/Itsn0b1t4/Toxinum?logo=GITHUB&style=for-the-badge" alt="forks" ></a>
+<a href="https://www.github.com/itsn0b1t4/toxinum/"><img src="https://img.shields.io/github/watchers/Itsn0b1t4/Toxinum?color=red&logo=github&style=for-the-badge" alt="total watchers" ></a>
+<a href="https://github.com/itsn0b1t4/toxinum//blob/main/LICENSE"><img src="https://img.shields.io/github/license/Itsn0b1t4/Toxinum?logo=license&style=for-the-badge" alt="total watchers" ></a>
 </div>
 
 # DOWNLOAD APP 
@@ -58,6 +58,6 @@
 <a href="https://www.facebook.com/toxinum"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="fb" ></a>
 <a href="https://t.me/toxinum"><img src="https://img.shields.io/badge/Telegram-1877F2?style=for-the-badge&logo=telegram&logoColor=white" alt="fb" ></a><a href="mailto: dev.akxvau@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="mail" ></a>
 <br>
-<a href="https://m.me/j/AbY74FqeHc5s7Q_D/">*Messenger Adda Grpup</a>
+<a href="https://m.me/j/Abac51uuEHlO3dWp/">*Messenger Adda Grpup</a>
 
 ### Thanks. Don't forget to give this project star and follow our github.
